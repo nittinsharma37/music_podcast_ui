@@ -75,11 +75,11 @@ class _SearchScreenState extends State<SearchScreen>
     );
   }
 
-  void updateSearchQuery(String Query) {
+  void updateSearchQuery(String query) {
     setState(() {
-      searchQuery = Query;
+      searchQuery = query;
     });
-    print("search query " + Query);
+    print("search query " + query);
   }
 
   List<Widget> _buildActions() {
