@@ -1,4 +1,4 @@
 # Music Podcast ui
- #### A beautiful UI built with flutter 
+ #### A beautiful Music Podcast App UI built with flutter 
 
- 
+![homepage light](screenshots/moto_home_light.jpg)
